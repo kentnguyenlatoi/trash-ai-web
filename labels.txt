@@ -1,0 +1,8 @@
+ewaste
+food_waste
+leaf_waste
+metal_cans
+paper_waste
+plastic_bags
+plastic_bottles
+wood_waste
